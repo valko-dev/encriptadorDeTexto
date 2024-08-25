@@ -19,7 +19,7 @@ function handleDecrypt() {
     setText('output-text', decryptedText);
 }
 
-// Función para copiar el texto al portapapeles usando la API moderna
+// Función para copiar el texto al portapapeles usando la API 
 function copyToClipboard(elementId) {
     const text = getText(elementId);
     navigator.clipboard.writeText(text)
@@ -37,9 +37,9 @@ function setText(elementId, text) {
     document.getElementById(elementId).value = text;
 }
 
-// Función para pulir el texto (eliminar caracteres especiales)
+// Función para pulir el texto (convertir a minúsculas y eliminar caracteres especiales)
 function sanitizeText(text) {
-    return text.replace(/[^a-z\s]/g, '');
+    return text.toLowerCase().replace(/[^a-z\s]/g, '');
 }
 
 // Función para encriptar el texto usando las reglas establecidas

@@ -23,7 +23,8 @@ El **Encriptador de Texto** es una herramienta que permite a los usuarios encrip
 
 Puedes acceder al proyecto y probar la herramienta directamente en tu navegador.
 
-- **Repositorio en GitHub:** [Encriptador de Texto](https://github.com/valko-dev/encriptador-de-texto)
+-  Repositorio en GitHub: [Encriptador de Texto](https://github.com/valko-dev/encriptadorDeTexto)
+-  Probar Encriptador: [Encriptador de Texto](https://encriptador-de-texto-lac-three.vercel.app/)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -34,12 +35,13 @@ Puedes acceder al proyecto y probar la herramienta directamente en tu navegador.
 
 ## 🤝 Contribuyentes
 
-| [<img src="https://avatars.githubusercontent.com/u/100471956?v=4" width=115><br><sub>Valeria Kocar A.</sub>](https://github.com/valko-dev) |
+| [<img src="https://avatars.githubusercontent.com/u/173325613?v=4" width=115><br><sub>Valeria Kocar A.</sub>](https://github.com/valko-dev) |
 | :---: |
+
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la licencia MIT. 
 
 ## 🎨 Créditos de Imágenes
 
